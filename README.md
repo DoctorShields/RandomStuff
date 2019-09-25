@@ -1,8 +1,8 @@
 # RandomStuff
 
 ## Table of Contents
-[Git](#Git)
-[Pi](#Pi)
+* [Git](#Git)
+* [Pi](#Pi)
 
 ## Git
 ### That annoying LF/CRLF warning
