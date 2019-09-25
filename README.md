@@ -1,5 +1,9 @@
 # RandomStuff
 
+## Table of Contents
+[Git](#Git)
+[Pi](#Pi)
+
 ## Git
 ### That annoying LF/CRLF warning
 `git config core.autocrlf false`
