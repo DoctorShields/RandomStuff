@@ -14,3 +14,20 @@ git config --global alias.lgb "log --graph --pretty=format:'%Cred%h%Creset -%C(y
 
 git lgb
 ```
+## Pi
+### Hop on a non-broadcasting SSID
+`sudo nano /etc/wpa_supplicant/wpa_supplicant.conf`
+
+then
+
+```
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+country=US
+ 
+network={
+        ssid="insert_your_hidden_SSID_here"
+        scan_ssid=1
+        key_mgmt=NONE
+}
+```
