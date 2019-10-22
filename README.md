@@ -18,6 +18,9 @@ git config --global alias.lgb "log --graph --pretty=format:'%Cred%h%Creset -%C(y
 
 git lgb
 ```
+### Cool tool:
+https://nic-hartley.github.io/git-gud/
+
 ## Pi
 ### Hop on a non-broadcasting SSID
 `sudo nano /etc/wpa_supplicant/wpa_supplicant.conf`
