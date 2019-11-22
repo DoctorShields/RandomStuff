@@ -38,3 +38,8 @@ network={
         key_mgmt=NONE
 }
 ```
+
+## FTC
+### Coordinate system rotation
+
+![csr](media/rot_eqns.png)
